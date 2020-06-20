@@ -1,0 +1,77 @@
+1. 运算符与表达式 operator and expression
+常量 constant 
+变量 variable 
+标识符 identify 
+关键字 keywords 
+符号 sign 
+运算符 operator 
+语句 statement 
+语法 syntax 
+表达式 Expression 
+初始化 Initialization 
+数据格式 number format 
+说明 Declaration 
+类型转换 type conversion 
+定义 define, definition 
+
+2. 条件语句 condition statement
+选择 select 
+表达式 expression 
+逻辑表达式 logical expression 
+关系表达式 Relational expression 
+优先 priority 
+运算 operation 
+结构 structure 
+
+3. 循环语句 circle statement
+循环 circle 
+条件 condition 
+变量 variant 
+过程 process 
+优先 priority 
+运算 
+ 
+4. 函数 function
+调用 call 
+返回值 return value 
+函数 function 
+声明 declare 
+参数 parameter 
+静态的 static 
+外部的 external
+
+5. 数组和指针 array and pointer
+数组 array 
+引用 reference 
+元素 element 
+地址 address 
+排序 sort 
+字符 character 
+字符串 string 
+应用 application 
+指针 pointer 
+参数 argument 
+数组 array 
+声明 declaration 
+表示 represent 
+处理 manipulate
+
+6. 结构体、 共用体 structures, union 
+结构 structure 
+成员 member 
+标记 tag 
+函数 function 
+枚举 enumerate 
+联合 ( 共用体 ) union 
+创建 create 
+插入 insert 
+删除 delete 
+修改 modify 
+
+7. 文件 file 
+文件 file 
+打开 open 
+关闭 close 
+读 read 
+写 write 
+错误 error
