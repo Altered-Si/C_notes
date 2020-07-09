@@ -36,7 +36,9 @@
 返回值 return value 
 函数 function 
 声明 declare 
-参数 parameter 
+参数 
+形参 parameter
+实参 argument
 静态的 static 
 外部的 external
 
